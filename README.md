@@ -1,8 +1,11 @@
 AWS Lift and Shift: Application Workload Migration
+
 Project Overview
+
 Welcome to the AWS Lift and Shift project! In this cloud computing initiative, we aim to migrate a multi-tier web application stack named "vprofile" from a local setup using Vagrant to a production environment on AWS. The migration strategy we'll employ is the "lift and shift" approach.
 
 Project Objectives
+
 Flexible Infrastructure: Transition from a local data center to AWS for a more flexible and scalable infrastructure.
 
 Pay-as-You-Go Model: Embrace the AWS cloud computing model, allowing us to pay for resources as we use them.
