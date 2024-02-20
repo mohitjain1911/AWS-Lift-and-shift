@@ -34,6 +34,7 @@ Our current scenario involves a variety of application services running on physi
 
 ### Before AWS Migration
 ![Before AWS Migration](link_to_before_migration_diagram)
+![Alt text](image.png)
 
 ### After AWS Migration
 ![After AWS Migration](link_to_after_migration_diagram)
