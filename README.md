@@ -33,10 +33,10 @@ Our current scenario involves a variety of application services running on physi
 ## Architectural Design
 
 ### Before AWS Migration
-![Alt text](image.png)
+![Alt text](Before.png)
 
 ### After AWS Migration
-![Alt text](image-1.png)
+![Alt text](After.png)
 
 ## Execution Flow
 
