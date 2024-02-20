@@ -58,12 +58,7 @@ Implement an auto-scaling group for Tomcat instances, ensuring scalability based
 Verification:
 
 Verify the entire setup, ensuring proper functionality and performance.
-Instructions for Local Development
-If you wish to contribute or test locally:
 
-Clone the repository: git clone https://github.com/your-username/aws-lift-and-shift.git
-Follow the setup instructions in the project's documentation.
-Explore the codebase, contribute, and provide feedback.
 Conclusion
 The AWS Lift and Shift project demonstrates the power of cloud computing in migrating and optimizing application workloads. By leveraging AWS services, we achieve flexibility, scalability, and automation, ultimately enhancing the overall efficiency of our application.
 
