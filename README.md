@@ -72,4 +72,3 @@ Our current scenario involves a variety of application services running on physi
 
 The AWS Lift and Shift project demonstrates the power of cloud computing in migrating and optimizing application workloads. By leveraging AWS services, we achieve flexibility, scalability, and automation, ultimately enhancing the overall efficiency of our application.
 
-
