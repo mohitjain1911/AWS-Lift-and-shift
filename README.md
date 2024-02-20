@@ -1,4 +1,4 @@
-AWS Lift and Shift: Application Workload Migration
+** AWS Lift and Shift: Application Workload Migration **
 
 Project Overview
 
