@@ -10,4 +10,4 @@ Complex Management, Scale UP / Scale Down complexity, Upfront CapEx & Regular Op
 
 Solutions:
 
-Automation, Pay As You Go, IAAS, Ease of management, Flexiblity 
+We will lift and shift the application to cloud and benefits of that are: Automation, Pay As You Go, IAAS, Ease of management, Flexiblity 
